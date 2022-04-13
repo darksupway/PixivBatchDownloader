@@ -1,4 +1,4 @@
-[简体中文](https://github.com/xuejianxianzun/PixivBatchDownloader/blob/master/README.md)
+[简体中文](https://github.com/xuejianxianzun/PixivBatchDownloader/blob/master/README-CH.md)
 
 [繁體中文](https://github.com/xuejianxianzun/PixivBatchDownloader/blob/master/README-ZH-TW.md)
 
