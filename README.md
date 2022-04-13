@@ -1,9 +1,10 @@
-[简体中文](https://github.com/xuejianxianzun/PixivBatchDownloader/blob/master/README-CH.md)
+[简体中文](https://github.com/darksupway/PixivBatchDownloader/blob/master/README_CH.md)
 
-[繁體中文](https://github.com/xuejianxianzun/PixivBatchDownloader/blob/master/README-ZH-TW.md)
+[繁體中文](https://github.com/darksupway/PixivBatchDownloader/blob/master/README-ZH-TW.md)
 
 [Discord channel](https://discord.gg/eW9JtTK)
 
+Version of origin:
 ![version](https://img.shields.io/github/v/release/xuejianxianzun/PixivBatchDownloader)
 
 <!-- TOC -->
